@@ -4,7 +4,9 @@
 	padding: 0;
 }
 
-body {
-	background: blue;
+.banner {
+	height: 200px;
+	border: 5px solid #000;
+	cursor: pointer;
 }
 
